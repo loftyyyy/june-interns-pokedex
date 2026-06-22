@@ -8,6 +8,7 @@ Views are the HTML templates that display data to users. We use **EJS** (Embedde
 
 EJS lets you embed JavaScript in HTML:
 
+
 ```html
 <!-- Regular HTML -->
 <h1>Hello World</h1>
